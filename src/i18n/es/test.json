@@ -1,0 +1,13 @@
+{
+  "HELLO": "Hola Mundo!",
+  "ALREADY_EXISTS": "El elemento ya existe en la base de datos",
+  "DOES_NOT_EXIST": "El elemento no existe en la base de datos",
+  "USER_EXISTS": "Ya existe el usuario",
+  "INVALID_CREDENTIALS": "Credenciales inválidas",
+  "INVALID_ACTIVATION_CODE": "Código de activación inválido",
+  "INVALID_RESET_PASSWORD_CODE": "Código de reestablecimiento de contraseña inválido",
+  "UNAUTHORIZED_ACCESS": "Acceso no autorizado",
+  "EXPIRED_CODE": "El código de verificación ha caducado o no fue encontrado",
+  "THANKS": "Gracias por su interés y por contactarnos",
+  "THANKS_SIGN_IN": "Bienvenido y gracias por autenticarse"
+}
